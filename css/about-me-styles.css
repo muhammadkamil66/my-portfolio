@@ -11,7 +11,7 @@ body {
   width: 100%;
   margin: 0;
   padding: 1em 0 0.5em;
-  color: #ff789e;
+  color: #382266;
   font-size: 2.5em;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
@@ -27,7 +27,7 @@ body {
   width: 10px;
   height: 10px;
   margin-left: 5px;
-  background-color: #ff789e;
+  background-color: #382266;
 }
 .about-me__title__dot--white {
   background-color: #fff;
@@ -107,19 +107,19 @@ body {
   background-color: #fff;
   box-shadow: 0 0 3px -1px rgba(0,0,0,0.4),
               0 13px 13px -10px rgba(0,0,0,0.4);
-  border-bottom: 12px solid #ff789e;
+  border-bottom: 12px solid #7078a9;
   border-radius: 3px;
   overflow-x: hidden;
 }
 .about-me__skills__item:nth-child(even) .about-me__skills__header {
   background-color: #7078a9;
-  background: linear-gradient(to top, #7078a9 0%, #ff5988 100%);
+  background: linear-gradient(to top, #7078a9 0%, #c1c1c1 100%);
 }
 .about-me__skills__header {
   width: 100%;
   height: 120px;
   background-color: #ff5988;
-  background: linear-gradient(to bottom, #7078a9 0%, #ff5988 100%);
+  background: linear-gradient(to bottom, #7078a9 0%, #c1c1c1 100%);
   position: relative;
 }
 .about-me__skills__header:before {
@@ -190,7 +190,7 @@ body {
   display: inline-block;
   margin: 0;
   margin-top: 0em;
-  color: #ff789e;
+  color: #7178a9;
   font-size: 1em;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
@@ -201,7 +201,7 @@ body {
 .about-me__skills__middle__description:after {
   content: "";
   width: 10px;
-  border-bottom: 2px solid #ff789e;
+  border-bottom: 2px solid #7178a9;
   position: absolute;
   top: 50%;
 }
@@ -222,7 +222,7 @@ body {
   font-weight: 300;
 }
 .about-me__skills__text--accent {
-  color: #ff789e;
+  color: #9433a5;
 }
 .about-me__skills__btn {
   display: block;
@@ -353,7 +353,7 @@ body {
   border-bottom-left-radius: 3px;
 }
 .about-me__email {
-  color: #ff789e;
+  color: #7178a9;
   font-size: 1.4em;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
